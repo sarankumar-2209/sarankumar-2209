@@ -1,11 +1,42 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+V+Sarankumar+S+Varathaganesh+%F0%9F%91%8B;Cybersecurity+Analyst+%7C+Red+Teamer+%7C+Full+Stack+Dev;SOC+Analyst+%7C+Ethical+Hacker+%7C+DevSecOps;Hackathon+Winner+%7C+SIH+Runner+Up+%F0%9F%8F%86)
+<!-- ================= CYBER HEADER ================= -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarankumar-2209)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saran2209kumar@gmail.com)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sarankumar-2209.sarankumar-2209)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00FF9C&center=true&vCenter=true&width=900&lines=INITIALIZING+CYBER+PROFILE...;ACCESS+GRANTED+✔;WELCOME+V+SARANKUMAR+S+VARATHAGANESH;CYBERSECURITY+ANALYST+%7C+RED+TEAMER+%7C+DEVSECOPS;SYSTEM+STATUS:+ONLINE" />
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=verizon" />
+  <img src="https://img.shields.io/badge/SECURITY-ENGAGED-ff0000?style=for-the-badge&logo=hackaday" />
+  <img src="https://img.shields.io/badge/THREAT_LEVEL-MONITORING-yellow?style=for-the-badge&logo=probot" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/sarankumar-2209">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:saran2209kumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sarankumar-2209.sarankumar-2209" />
+</p>
+
+---
+
+### 🧠 SYSTEM ROLE
+```bash
+Cybersecurity Analyst | Red Teamer | SOC Engineer | DevSecOps Enthusiast
 
 ## 🛡️ About Me
 
