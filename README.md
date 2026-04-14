@@ -1,8 +1,4 @@
 
-![Matrix](https://i.gifer.com/7VE.gif)
-
----
-
 ## 🧬 CYBER WARFARE CONTROL PANEL
 
 ```
