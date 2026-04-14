@@ -1,68 +1,94 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Sarankumar%20Cyber%20Security&fontSize=30&fontColor=ffffff)
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-![trophy](https://github-profile-trophy.vercel.app/?username=sarankumar-2209&theme=radical)
-# Hi 👋 I'm V. Sarankumar S. Varathaganesh
+<!-- HEADER ANIMATION -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Sarankumar%20%7C%20Cyber%20Security&fontSize=28&fontColor=ffffff)
 
-💻 Cyber Security Analyst | Red Team Enthusiast | SOC Learner  
-🔐 Passionate about Ethical Hacking, Threat Intelligence & Secure Systems  
-🚀 Building real-world security tools & AI-based cybersecurity systems  
+# 👋 Hi, I'm V. Sarankumar S. Varathaganesh
 
----
-
-## 🧠 About Me
-- 🎯 Cybersecurity student (B.Tech CSIT - Cyber Security)
-- 🛡️ Hands-on experience in SOC, SIEM, and Red Team labs
-- ⚔️ Interested in Penetration Testing & Active Directory attacks
-- ☁️ Exploring AWS Security & Cloud Defense
-- 🧩 Love solving CTFs & Hackathons
+🛡️ Cyber Security Analyst | Red Team Enthusiast | SOC Engineer  
+⚔️ Ethical Hacker | Threat Hunter | Security Researcher  
+🚀 Building real-world cybersecurity & AI security systems  
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 ABOUT ME
 
-### 💻 Programming
-Python | Java | JavaScript | SQL  
-
-### 🛡️ Cyber Security
-Wazuh | ELK Stack | Zabbix | AlienVault | SIEM | SOC  
-
-### 🖥️ Systems
-Linux | SSH | SCP | Active Directory | GPO | LDAP  
-
-### ☁️ Cloud & DevOps
-AWS (EC2, IAM, RDS, EBS) | Docker  
+- 🎯 Cybersecurity Engineering Student (B.Tech CSIT)
+- 🔐 Hands-on in SOC, SIEM, Red Team & Blue Team labs
+- ⚔️ Active Directory attack & defense simulations
+- ☁️ Cloud Security (AWS IAM, EC2, RDS)
+- 🧩 Passionate about CTFs, Hackathons, Threat Intelligence
 
 ---
 
-## 🚀 Projects
+# 🛠️ TECH STACK
 
-### 🕶️ Anonymous Red Team Environment
-Isolated penetration testing lab using Qubes OS + sys-whonix
+## 💻 Programming
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 
-### 🧬 AI Chronic Disease System
-ML-based predictive healthcare system
+## 🛡️ Cyber Security Tools
+![Wazuh](https://img.shields.io/badge/Wazuh-blue?style=for-the-badge)
+![ELK](https://img.shields.io/badge/ELK%20Stack-orange?style=for-the-badge)
+![Zabbix](https://img.shields.io/badge/Zabbix-red?style=for-the-badge)
+![AlienVault](https://img.shields.io/badge/AlienVault-purple?style=for-the-badge)
 
-### 🛡️ AI Security Scanner
-Real-time threat detection dashboard using Streamlit
+## 🖥️ Systems
+Linux | Active Directory | LDAP | GPO | SSH | Networking
+
+## ☁️ Cloud & DevOps
+AWS | Docker | Security Monitoring
 
 ---
 
-## 🏆 Achievements
-🥇 Winner – Cybersecurity & Blockchain Hackathon (MIT KuruKshetra)  
-🥈 Runner-up – CSI & Imperative CTF  
-🥈 Runner-up – Ambuja Tech CTF  
-🏅 Smart India Hackathon Participant  
+# 🚀 FEATURED PROJECTS
+
+## 🕶️ Anonymous Red Team Environment
+- Built isolated hacking lab using Qubes OS + sys-whonix
+- Simulated attack/defense environments
+- Integrated SIEM tools for monitoring
+
+## 🧬 AI Chronic Disease System
+- ML-based prediction system
+- Early disease detection using data analysis
+
+## 🛡️ AI Security Scanner
+- Real-time threat detection dashboard
+- Network + process monitoring using AI
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GITHUB STATS
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarankumar-2209&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=sarankumar-2209&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarankumar-2209&layout=compact&theme=radical)
 
 ---
 
-## 🔗 Connect with Me
-- LinkedIn: Saran Kumar  
-- Email: saran2209kumar@gmail.com  
+# 🔥 ACTIVITY GRAPH
+
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=sarankumar-2209&theme=react-dark)
+
+---
+
+# 🐍 SNAKE CONTRIBUTION GRAPH
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🏆 TROPHIES
+
+![trophy](https://github-profile-trophy.vercel.app/?username=sarankumar-2209&theme=radical)
+
+---
+
+# 📡 CONNECT WITH ME
+
+- 📧 Email: saran2209kumar@gmail.com  
+- 💼 LinkedIn: Saran Kumar  
+- 💻 GitHub: https://github.com/sarankumar-2209  
+
+---
+
+⚡ "Think like a hacker, defend like a warrior"
