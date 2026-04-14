@@ -1,63 +1,85 @@
-# ⚡ System.Initialize("V Sarankumar S Varathaganesh")
+<p align="center"> 
+  <img src="https://vercel.app" /> 
+</p> 
+
+<p align="center"> 
+  <img src="https://demolab.com>>+SYSTEM+STATUS:+SECURE;>>+RED+TEAM+ENTHUSIAST;>>+SOC+ENGINEER+IN+PROGRESS;>>+THREAT+HUNTING+ENABLED" alt="Cyber Typing SVG" /> 
+</p> 
+
+<p align="center"> 
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&logo=statuspage&logoColor=00FF41&labelColor=black" /> 
+  <img src="https://img.shields.io/badge/OS-LINUX_KALI-5194f0?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=black" /> 
+  <img src="https://img.shields.io/badge/NETWORK-ENCRYPTED-red?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=black" /> 
+</p> 
+
+---
+
+# 🕵️‍♂️ INITIALIZING BIOMETRIC SCAN... ACCESS GRANTED.
+
+### **$ whoami**
+> **V. Sarankumar S. Varathaganesh**  
+> **Security Researcher | B.Tech CSIT (Cyber Security)**  
+> Aspiring professional focused on breaking systems to make them un-breakable. 
+> Proficient in **AI-based security solutions** and **SOC Operations**.
+
+- 🚩 **CTF Player:** Active in MIT KuruKshetra & Smart India Hackathon
+- 🎯 **Target:** Offensive Security Certified Professional (OSCP)
+- 📡 **Current Lab:** Anonymous Red Team environment using **Qubes OS** & **sys-whonix**
+
+---
+
+# ⚔️ TECH ARSENAL (BY DOMAIN)
+
+### 💀 Offensive (Red Team)
+`Active Directory` `Metasploit` `Nmap` `Burp Suite` `OWASP Top 10` `Python Automation`
+
+### 🛡️ Defensive (Blue Team)
+`Wazuh (SIEM)` `ELK Stack` `Zabbix` `AlienVault` `Incident Response` `Log Analysis`
+
+### 🤖 Development & Cloud
+`Python` `ASP.NET` `React.js` `Django` `AWS (EC2/IAM/RDS)` `Docker`
+
+---
+
+# 📂 ENCRYPTED_PROJECTS.exe
+
+
+| SEC_LEVEL | PROJECT_NAME | INTEL |
+| :--- | :--- | :--- |
+| 🔴 **HIGH** | **Anonymous Red Team Env** | Fully isolated hacking lab via **Qubes OS** + **Whonix** for total OPSEC. |
+| 🟡 **MED** | **AI Security Scanner** | Real-time Streamlit dashboard for network anomalies & ransomware detection. |
+| 🔵 **LOW** | **Odin Web Crawler** | Dark web data extraction pipeline integrated for threat intelligence. |
+
+---
+
+# 📊 THREAT INTELLIGENCE DASHBOARD 
+
+<p align="center"> 
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sarankumar-2209&show_icons=true&theme=matrix&rank_icon=github&border_color=00FF41" /> 
+  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarankumar-2209&layout=compact&theme=matrix&border_color=00FF41" /> 
+</p>
+
+### 📡 COMMIT FREQUENCY (NETWORK TRAFFIC)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarankumar-2209&theme=matrix&bg_color=000000&hide_border=false&area=true)
+
+---
+
+# 🏆 LOOT (BADGES & TROPHIES)
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=sarankumar-2209&theme=matrix&no-bg=true&column=4" /> 
+</p>
+
+---
+
+# 📞 SECURE COMMUNICATION CHANNELS
 
 <p align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <a href="mailto:saran2209kumar@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com"><img src="https://shields.io" /></a>
 </p>
 
----
-
-### 🟢 Status: Decrypting Profile...
-
-I am a **Cybersecurity Enthusiast** and **Full Stack Developer** based in Pune, MH. Currently pursuing B.Tech in CSIT (Cyber Security) at Symbiosis Skills and Professional University (CGPA: 8.7). My mission is to build secure digital environments and automate threat detection using AI.
-
-- 🔭 **Current Focus**: Advanced Penetration Testing & AI-driven Security Scanners.
-- 🛡️ **Blue Teaming**: Expert in ELK Stack, Wazuh, Zabbix, and AlienVault.
-- ⚡ **Red Teaming**: Experienced in Qubes OS, sys-whonix, and AD Exploitation.
-- 🏆 **Achievements**: Winner @ MIT KuruKshetra-25 Hackfest | Runner @ Smart India Hackathon 2025.
-
----
-
-### 🛠️ Tech Stack & Arsenal
-
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | `Python` `Java` `JavaScript` `SQL` `C#` `ASP.NET` |
-| **Cyber Ops** | `Wazuh` `ELK Stack` `Zabbix` `AlienVault` `Metasploit` `Wireshark` |
-| **Cloud & DevOps** | `AWS (EC2, IAM, RDS)` `Docker` `Linux (SSH, SCP, Hardening)` |
-| **Infrastructure** | `Active Directory (GPO, LDAP)` `Networking` `Web Crawling (Dark Web)` |
-
----
-
-### 📂 Featured Operations (Projects)
-
-*   **[Anonymous Red Team Lab]** 
-    *   Designed a secure, untraceable environment using **Qubes OS** and **sys-whonix**. Integrated offensive tools with defensive monitoring (Wazuh/ELK).
-*   **[AI-Powered Real-Time Security Scanner]** 
-    *   Streamlit dashboard for IDS/IPS and ransomware detection using `Pyshark` and AI anomaly detection.
-*   **[Odin Web Crawler]** 
-    *   Dark web data extraction pipeline for threat intelligence and analytics.
-
----
-
-### 📊 GitHub Activity Monitor
-![Saran's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
----
-
-### 🌐 Secure Connection Points
-
-<p align="left">
-<a href="mailto:saran2209kumar@gmail.com"><img src="https://shields.io" /></a>
-<a href="https://linkedin.com"><img src="https://shields.io" /></a>
-<a href="tel:+917972060760"><img src="https://shields.io" /></a>
+<p align="center"> 
+  <code>ESTABLISHED CONNECTION: 127.0.0.1</code><br> 
+  <img src="https://komarev.com/ghpvc/?username=sarankumar-2209&color=00FF41&style=flat-square&label=INTRUSION_ATTEMPTS" /> 
 </p>
-
-```javascript
-{
-  "location": "Pune, Maharashtra",
-  "education": "B.Tech CSIT (Cyber Security)",
-  "status": "Available for Internships/Junior Roles",
-  "quote": "The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards."
-}
