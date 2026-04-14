@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=INITIALIZING+PROFILE...;ACCESS+GRANTED+✔;HI+I'M+V+SARANKUMAR+S+VARATHAGANESH;CYBERSECURITY+ANALYST+%7C+RED+TEAMER+%7C+DEVSECOPS;SYSTEM+STATUS:+ONLINE+🟢)
 <!-- ================= ELITE CYBER SECURITY PROFILE ================= -->
 
 <p align="center">
