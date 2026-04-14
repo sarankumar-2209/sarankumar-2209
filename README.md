@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+V+S+Sarankumar+S+Varathaganesh+%F0%9F%91%8B;Cybersecurity+Analyst+%7C+Red+Teamer+%7C+Full+Stack+Dev;SOC+Analyst+%7C+Ethical+Hacker+%7C+DevSecOps;Hackathon+Winner+%7C+SIH+Runner+Up+%F0%9F%8F%86)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+V+Sarankumar+S+Varathaganesh+%F0%9F%91%8B;Cybersecurity+Analyst+%7C+Red+Teamer+%7C+Full+Stack+Dev;SOC+Analyst+%7C+Ethical+Hacker+%7C+DevSecOps;Hackathon+Winner+%7C+SIH+Runner+Up+%F0%9F%8F%86)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarankumar-2209)
