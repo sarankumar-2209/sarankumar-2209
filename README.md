@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+V+Sarankumar+S+Varathaganesh+%F0%9F%91%8B;Cybersecurity+Analyst+%7C+Red+Teamer+%7C+Full+Stack+Dev;SOC+Analyst+%7C+Ethical+Hacker+%7C+DevSecOps;Hackathon+Winner+%7C+SIH+Runner+Up+%F0%9F%8F%86)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarankumar-2209)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saran2209kumar@gmail.com)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sarankumar-2209.sarankumar-2209)
@@ -9,12 +9,18 @@
 
 ## 🛡️ About Me
 
-- 🎓 B.Tech CSIT (Cyber Security) @ Symbiosis Skills & Professional University, Pune (**CGPA: 8.7**)
-- 💼 Cyber Security Analyst Intern – Imperative Business Ventures Ltd
-- 🔴 Experience in **Red Teaming, SOC Analysis, VAPT, Threat Intelligence**
-- 🧠 Building AI-based cybersecurity tools & automation systems
-- 🏆 Hackathon Winner | SIH 2025 Runner-Up | CTF Competitor
-- 📫 Email: **saran2209kumar@gmail.com**
+Aspiring **Cybersecurity Professional** with hands-on experience in:
+
+- Ethical Hacking & Penetration Testing  
+- Network Security & Threat Intelligence  
+- SOC Monitoring & Log Analysis  
+- AI-based Security Solutions  
+- Secure System Development  
+
+Passionate about solving real-world cybersecurity challenges, building secure systems, and participating in national-level hackathons.
+
+🏆 Hackathon Winner | SIH 2025 Runner-Up | CTF Competitor  
+📫 Email: **saran2209kumar@gmail.com**
 
 ---
 
@@ -44,49 +50,46 @@
 ## 🚀 Featured Projects
 
 ### 🤖 AI-Powered Security Scanner
-> Streamlit · Python · Pyshark · Psutil · Plotly  
+Streamlit · Python · Pyshark · Psutil · Plotly  
 Real-time system monitoring, IDS/IPS, port scanning, ransomware detection, anomaly detection.
 
 ---
 
 ### 🕶️ Anonymous Red Team Environment
-> Qubes OS · Whonix · ELK Stack · Wazuh  
-Fully isolated offensive security lab for Red Team + Blue Team simulations.
+Qubes OS · Whonix · ELK Stack · Wazuh  
+Fully isolated offensive security lab for Red Team & Blue Team simulations.
 
 ---
 
 ### 🧠 Chronic Disease Management (AI/ML)
-> Python · TensorFlow · Scikit-learn · Django  
-Predictive AI system for early disease detection and risk analysis.
+Python · TensorFlow · Scikit-learn · Django  
+AI system for early disease prediction and risk analysis.
 
 ---
 
 ## 💼 Work Experience
 
-### 🛡️ Cyber Security Analyst Intern  
-**Imperative Business Ventures Ltd**
-- Red Team environment using Qubes OS + sys-whonix
-- Active Directory attack/defense simulation
-- SIEM tools: ELK, Wazuh, Zabbix, AlienVault
+### 🛡️ Cyber Security Analyst Intern – Imperative Business Ventures Ltd
+- Red Team environment using Qubes OS + sys-whonix  
+- Active Directory attack & defense simulation  
+- SIEM tools: ELK, Wazuh, Zabbix, AlienVault  
 
-### 💻 Software Developer Intern  
-**Twinkle IT Solution Pvt Ltd**
-- ASP.NET, C#, SQL Server development
-- Responsive UI using HTML, CSS, JS
-- CRUD optimization & deployment
+### 💻 Software Developer Intern – Twinkle IT Solution Pvt Ltd
+- ASP.NET, C#, SQL Server development  
+- Responsive UI using HTML, CSS, JavaScript  
+- CRUD operations, debugging, deployment  
 
-### 🌐 Full Stack Intern  
-**Astraeus Next Gen Pvt Ltd**
-- Dark web crawler (Odin project)
-- Threat intelligence pipelines
-- Backend API debugging
+### 🌐 Full Stack Intern – Astraeus Next Gen Pvt Ltd
+- Dark web crawler (Odin project)  
+- Threat intelligence pipelines  
+- Backend API development  
 
 ---
 
 ## 🏆 Achievements
 
 | Competition | Result |
-|---|---|
+|------------|--------|
 | MIT Kurukshetra 25 Hackfest | 🥇 Winner |
 | Smart India Hackathon 2025 | 🥈 Runner-Up |
 | CSI & Imperative CTF | 🥈 Runner-Up |
