@@ -1,84 +1,141 @@
-🛡️ SOC DASHBOARD UI (GitHub Simulation)
-<!-- 🧠 SOC HEADER -->
+<!-- 🧠 MATRIX HEADER -->
 <div align="center">
 
-# 📡 SECURITY OPERATIONS CENTER (SOC)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&width=800&lines=Live+Threat+Monitoring;SOC+Dashboard+Active;Security+Telemetry+Stream)
+01010011 01100001 01110010 01100001 01101110 01101011 01110101 01101101 01100001 01110010
+
+
+# 🛡️ SECURITY OPERATIONS DASHBOARD
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&width=850&lines=Cybersecurity+Analyst;Red+Team+Operator;SOC+Engineer;Backend+Developer;Threat+Intelligence+Specialist)
 
 </div>
 
 ---
 
-# 🖥️ REAL-TIME SECURITY STATUS PANEL
+# 📡 SYSTEM IDENTITY PANEL
 
-| 🧩 Module | 📊 Status | 🔥 Activity |
-|----------|----------|------------|
-| 🔐 Authentication | 🟢 ACTIVE | Monitoring login attempts |
-| 🧠 Threat Detection | 🟢 ACTIVE | AI anomaly detection running |
-| 🌐 Network Monitor | 🟢 ACTIVE | Packet inspection enabled |
-| 🛡️ Firewall | 🟢 ACTIVE | Blocking suspicious traffic |
-| 📡 SIEM Pipeline | 🟢 ACTIVE | Logs streaming (ELK + Wazuh) |
+```bash id="a1k9lm"
+USER: V Sarankumar S Varathaganesh
+EMAIL: saran2209kumar@gmail.com
+PHONE: +91 7972060760
+LOCATION: Pune, Maharashtra
+GITHUB: https://github.com/sarankumar-2209
 
----
+STATUS: ACTIVE 🟢
+ROLE: Cybersecurity + Backend Engineer
+🧬 SECURITY PROFILE SUMMARY
 
-# 🚨 LIVE THREAT FEED (SIMULATED)
+🛡️ Aspiring Cybersecurity Professional with hands-on experience in:
 
-```bash
-[ALERT] Suspicious login attempt blocked - IP: 192.168.x.x
-[INFO] Port scan detected and neutralized
-[WARNING] Multiple failed SSH attempts detected
-[SECURE] Endpoint scan completed - No threats found
-[ANALYSIS] Traffic anomaly detected → Auto-mitigated
-📊 SECURITY TELEMETRY DASHBOARD
-🧠 Threat Detection Engine
+Ethical Hacking & Penetration Testing
+Network Security & SOC Operations
+AI-Based Security Systems
+Secure Backend Development
 
-🌐 Network Traffic Monitoring
+🔥 Specialized in:
+Threat Detection • Log Analysis • VAPT • Secure Architecture
 
-🛡️ Incident Response System
+📊 LIVE SOC STATUS PANEL
+MODULE	STATUS	ACTIVITY
+🔐 Authentication	🟢 ACTIVE	Login monitoring
+🧠 Threat Intelligence	🟢 ACTIVE	AI anomaly detection
+🌐 Network Monitoring	🟢 ACTIVE	Packet inspection
+🛡️ Firewall	🟢 ACTIVE	Traffic filtering
+📡 SIEM Pipeline	🟢 ACTIVE	ELK + Wazuh logs
+💼 WORK EXPERIENCE DASHBOARD
+<details> <summary>🔴 Cyber Security Analyst Intern — Imperative Business Ventures</summary>
 
-📡 LIVE SYSTEM METRICS
+📅 June 2025 – Nov 2025
 
-
-
-
-
-
-
-
-🧬 SOC MODULES (CLICK TO EXPAND)
-<details> <summary>🔐 Authentication & Identity Monitoring</summary>
-Login anomaly detection
-Brute force attack prevention
-MFA enforcement tracking
-</details> <details> <summary>🌐 Network Security Layer</summary>
-Packet inspection (Deep analysis)
-Port scanning detection
-Firewall rule automation
-</details> <details> <summary>🧠 AI Threat Intelligence Engine</summary>
-Behavioral anomaly detection
-ML-based attack classification
-Real-time risk scoring
+🕶️ Built anonymous Red Team environment using Qubes OS + sys-whonix
+🎯 Active Directory attack/defense simulations
+🛡️ SIEM stack: ELK, Wazuh, Zabbix, AlienVault
+🔍 Penetration testing & vulnerability assessments
 </details>
-📈 LIVE GITHUB SECURITY GRAPH
+<details> <summary>💻 Software Developer Intern — Twinkle IT Solution</summary>
+⚙️ ASP.NET, C#, SQL Server applications
+🎨 Responsive UI using HTML, CSS, JS
+🗄️ Optimized queries, stored procedures, CRUD
+🚀 Deployment & debugging
+</details>
+<details> <summary>🕷️ Full Stack Intern — Astraeus Next Gen</summary>
+🌐 Odin Web Crawler for dark web intelligence
+⚙️ Backend API development
+📊 Threat intelligence data pipelines
+</details>
+<details> <summary>📊 Security Analyst Intern — Amazure Technologies</summary>
+📡 Monitored 1000+ security events daily (ELK Stack)
+📊 Built real-time threat dashboard
+🛡️ Incident response & system hardening
+</details>
+<details> <summary>⚙️ Software Developer Intern — Nexgensis Technologies</summary>
+📊 React.js dashboards
+🔐 Django + MongoDB secure APIs
+🔁 Agile development lifecycle
+</details>
+🎓 EDUCATION STATUS
+Institution: Symbiosis Skills and Professional University
+Degree: B.Tech CSIT (Cyber Security)
+CGPA: 8.7
+Duration: 2022 – 2026
+STATUS: IN PROGRESS 🟡
+🚀 PROJECTS MODULE
+🕵️ Anonymous Red Team Environment
++ Qubes OS + sys-whonix isolation
++ Sandboxed VM attack simulation
++ Penetration testing environment
++ ELK + Wazuh + Zabbix integration
+🏥 Chronic Disease AI System
+ML-based predictive healthcare system
+Risk pattern detection
+Early intervention analytics
+🛡️ AI Security Scanner
+Streamlit-based SOC dashboard
+Real-time process + network monitoring
+IDS/IPS + ransomware detection
+Cloud + endpoint protection
+⚙️ SKILLS MATRIX
+🐧 Linux Systems
 
-🛰️ INCIDENT RESPONSE FLOW (SIMULATION)
-🔥 SOC TERMINAL VIEW
-root@soc:~# status
-System: ONLINE
-Threat Level: LOW
-Firewall: ACTIVE
-AI Engine: LEARNING MODE
-Logs: STREAMING
+SSH • SCP • WinSCP • Scheduling • Hard/Soft Links
 
-root@soc:~# scan --network
-Scanning........ OK
-No critical vulnerabilities found.
-🛡️ FINAL SECURITY STATE
-+ SYSTEM SECURE
-+ ALL MONITORS ACTIVE
-+ THREAT INTELLIGENCE ENABLED
-- NO ACTIVE BREACHES
+🧠 SOC / SIEM
+
+Wazuh • Zabbix • ELK Stack • AlienVault
+
+💻 Programming
+
+Python • SQL • Java • JavaScript
+
+🏢 Active Directory
+
+OU • GPO • LDAP • ADDS • Users & Groups
+
+☁️ AWS Cloud
+
+IAM • EC2 • EBS • EFS • RDS • Load Balancer
+
+🐳 Docker
+
+Networking • Containerization • Image Publishing
+
+🏆 ACHIEVEMENTS PANEL
++ MIT Kurukshetra-25 Hackfest — WINNER 🥇
++ CSI & Imperative CTF — RUNNER UP 🥈
++ Ambuja Tech CTF — RUNNER UP 🥈
++ Smart India Hackathon 2025 — RUNNER UP 🥈
+📡 LIVE GITHUB INTELLIGENCE
+
+🔐 SECURITY QUOTE
+
+“The quieter you become, the more you are able to observe vulnerabilities.”
+
+🟢 SYSTEM STATUS
+FIREWALL: ACTIVE 🛡️
+SIEM PIPELINE: RUNNING 📡
+THREAT LEVEL: LOW 🟢
+MONITORING: CONTINUOUS 👁️
 <div align="center">
-⚡ SOC DASHBOARD STATUS: OPERATIONAL 🟢
-</div> `
+⚡ SOC DASHBOARD STATUS: OPERATIONAL
+</div> ```
