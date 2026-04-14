@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=00FF00&center=true&vCenter=true&width=900&lines=INITIALIZING+PROFILE...;ACCESS+GRANTED+✔;HI+I'M+V+SARANKUMAR+S+VARATHAGANESH;CYBERSECURITY+ANALYST+%7C+RED+TEAMER+%7C+DEVSECOPS;SYSTEM+STATUS:+ONLINE+🟢)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+V+Sarankumar+S+Varathaganesh+%F0%9F%91%8B;Cybersecurity+Analyst+%7C+Red+Teamer+%7C+Full+Stack+Developer;SOC+Analyst+%7C+Ethical+Hacker+%7C+DevSecOps;Hackathon+Winner+%7C+SIH+Runner+Up+%F0%9F%8F%86)
 <!-- ================= ELITE CYBER SECURITY PROFILE ================= -->
 
 <p align="center">
