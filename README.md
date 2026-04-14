@@ -1,118 +1,166 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+V+Sarankumar+S+Varathaganesh+%F0%9F%91%8B;Cybersecurity+Analyst+%7C+Red+Teamer+%7C+Full+Stack+Developer;SOC+Analyst+%7C+Ethical+Hacker+%7C+DevSecOps;Hackathon+Winner+%7C+SIH+Runner+Up+%F0%9F%8F%86)
+<!-- ================= CYBER SECURITY PROFILE ================= -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarankumar-2209)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saran2209kumar@gmail.com)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sarankumar-2209)
+<h1 align="center">🛡️ SYSTEM BOOTING... ACCESS GRANTED</h1>
 
----
-
-## 🛡️ About Me
-
-- 🎓 B.Tech CSIT (Cyber Security) student @ Symbiosis Skills & Professional University, Pune (**CGPA: 8.7**)  
-- 💼 Cyber Security Analyst Intern – Imperative Business Ventures Ltd  
-- 🔴 Experience in **Red Teaming, VAPT, SOC Analysis & Threat Intelligence**  
-- 🧠 Skilled in building **AI-powered cybersecurity tools & automation systems**  
-- 🏆 Hackathon Winner | MIT Kurukshetra 25 | SIH 2025 Runner-Up | CTF Participant  
-- 📫 Email: **saran2209kumar@gmail.com**
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+V+Sarankumar+S+Varathaganesh+%F0%9F%91%8B;Cybersecurity+Professional+%7C+Red+Teamer+%7C+Full+Stack+Developer;SOC+Analyst+%7C+Ethical+Hacker+%7C+DevSecOps;Hackathon+Winner+%7C+SIH+Runner+Up+%F0%9F%8F%86" />
+</p>
 
 ---
 
-## 🔧 Tech Stack
+## 👤 ABOUT ME
 
-### 🛡️ Security Tools
-![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=flat-square&logo=portswigger&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+**V Sarankumar S Varathaganesh**  
+📧 Email: saran2209kumar@gmail.com  
+📞 Phone: +91 7972060760  
+📍 Location: Pune, Maharashtra  
+🔗 GitHub: https://github.com/sarankumar-2209  
+🔗 LinkedIn: Saran Kumar  
+
+---
+
+### 🧠 Summary
+Aspiring Cybersecurity professional with hands-on experience in ethical hacking, penetration testing, network security, and AI-based solutions. Skilled in threat detection, log analysis, and secure system development. Proficient in Python, web development, and modern frameworks. Passionate about solving cybersecurity challenges and participating in national-level hackathons.
+
+---
+
+## 💼 WORK EXPERIENCE
+
+### 🛡️ Cyber Security Analyst Intern  
+**Imperative Business Ventures Ltd** | June 2025 – Nov 2025  
+- Designed and deployed anonymous Red Team environment using Qubes OS with sys-whonix gateway  
+- Conducted Active Directory attack and defense simulations  
+- Implemented SIEM tools: ELK Stack, Wazuh, Zabbix, AlienVault  
+- Performed penetration testing and vulnerability assessments  
+
+---
+
+### 💻 Software Developer Intern  
+**Twinkle IT Solution Pvt Ltd** | June 2025 – Aug 2025  
+- Developed web applications using ASP.NET, C#, SQL Server  
+- Built responsive UI using HTML, CSS, JavaScript  
+- Designed and optimized database queries and CRUD operations  
+- Performed debugging, testing, and deployment  
+
+---
+
+### 🌐 Full Stack Developer Intern  
+**Astraeus Next Gen Pvt. Ltd** | Mar 2025 – May 2025  
+- Built Odin Web Crawler for dark web data extraction  
+- Developed threat intelligence pipelines  
+- Debugged backend APIs for Project Aegis  
+
+---
+
+### 🔐 Security Analyst Intern  
+**Amazure Technologies Pvt Ltd**  
+- Monitored 1000+ security events daily using ELK Stack  
+- Built real-time threat intelligence dashboards  
+- Worked on incident response and system hardening  
+
+---
+
+### 👨‍💻 Software Developer Intern  
+**Nexgensis Technologies Pvt Ltd** | Jun 2024 – Aug 2024  
+- Built dashboards using React.js  
+- Developed backend APIs using Django & MongoDB  
+- Worked in Agile development cycles  
+
+---
+
+## 🎓 EDUCATION
+
+🎓 **Symbiosis Skills and Professional University, Pune**  
+B.Tech – CSIT (Cyber Security)  
+📊 CGPA: 8.7  
+📅 Aug 2022 – Aug 2026  
+
+---
+
+## 🚀 PROJECTS
+
+### 🤖 AI-Powered Security Scanner  
+- Streamlit-based security dashboard  
+- Real-time process & network monitoring  
+- Tools: psutil, Pyshark, Plotly  
+- Features: IDS/IPS, port scanning, ransomware detection  
+
+---
+
+### 🕶️ Anonymous Red Team Environment  
+- Built using Qubes OS + sys-whonix  
+- Fully isolated penetration testing lab  
+- Integrated Blue Team tools: ELK, Wazuh, Zabbix, AlienVault  
+
+---
+
+### 🧠 Chronic Disease Management (AI/ML)  
+- ML-based disease prediction system  
+- Risk analysis using patient data  
+- Early warning system for healthcare insights  
+
+---
+
+## 🧰 SKILLS
 
 ### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- Python, Java, JavaScript, SQL  
 
-### ⚙️ Frameworks & DevOps
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+### 🛡️ Cyber Security Tools
+- Wazuh, ELK Stack, Zabbix, AlienVault  
+- Kali Linux, Burp Suite, Nmap  
 
----
+### ⚙️ Systems & Cloud
+- Linux (SSH, SCP, Putty, Scheduling)  
+- AWS (EC2, IAM, RDS, EBS, EFS, Load Balancer)  
+- Docker (Networking, Deployment, Containerization)  
 
-## 🚀 Featured Projects
-
-### 🤖 AI Security Scanner
-> Streamlit · Python · Pyshark · Psutil · Plotly  
-Real-time system monitoring, IDS/IPS, port scanning, ransomware detection, anomaly detection.
+### 🗄️ Active Directory
+- Users, Groups, OUs, GPO, LDAP, ADDS  
 
 ---
 
-### 🕶️ Anonymous Red Team Environment
-> Qubes OS · Whonix · ELK Stack · Wazuh  
-Isolated offensive + defensive cybersecurity lab for real-world simulation.
+## 🏆 ACHIEVEMENTS
+
+🥇 MIT Kurukshetra 25 Hackfest – Winner  
+🥈 Smart India Hackathon 2025 – Runner Up  
+🥈 CSI & Imperative CTF – Runner Up  
+🥉 Ambuja Tech CTF – Runner Up  
 
 ---
 
-### 🧠 Chronic Disease Management (AI/ML)
-> Python · TensorFlow · Scikit-learn · Django  
-AI system for early disease prediction and risk analysis.
+## 📊 GITHUB STATS
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sarankumar-2209&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarankumar-2209&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarankumar-2209&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 💼 Work Experience
+## 📈 ACTIVITY GRAPH
 
-### 🛡️ Cyber Security Analyst Intern – Imperative Business Ventures Ltd
-- Red Team lab using Qubes OS + sys-whonix  
-- Active Directory attack & defense simulation  
-- SIEM tools: ELK, Wazuh, Zabbix, AlienVault  
-
-### 💻 Software Developer Intern – Twinkle IT Solution Pvt Ltd
-- ASP.NET, C#, SQL Server development  
-- UI + backend integration  
-- CRUD operations, debugging, deployment  
-
-### 🌐 Full Stack Intern – Astraeus Next Gen Pvt Ltd
-- Dark web crawler (Odin project)  
-- Threat intelligence pipelines  
-- Backend API development  
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarankumar-2209&theme=tokyo-night" />
+</p>
 
 ---
 
-## 🏆 Achievements
+## 🐍 CONTRIBUTION SNAKE
 
-| Competition | Result |
-|---|---|
-| MIT Kurukshetra 25 Hackfest | 🥇 Winner |
-| Smart India Hackathon 2025 | 🥈 Runner-Up |
-| CSI & Imperative CTF | 🥈 Runner-Up |
-| Ambuja Tech CTF | 🥉 Runner-Up |
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sarankumar-2209&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com/?user=sarankumar-2209&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarankumar-2209&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarankumar-2209&theme=tokyo-night)
-
----
-
-## 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## ⚡ Quote
+## ⚡ QUOTE
 
 > "Breaking systems to understand them. Securing systems to protect them." 🔐
