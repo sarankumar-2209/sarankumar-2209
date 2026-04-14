@@ -1,7 +1,7 @@
 <!-- ================= ELITE CYBER SECURITY PROFILE ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=700&color=00FF00&center=true&vCenter=true&width=1000&lines=V+SARANKUMAR+S+VARATHAGANESH@SECURE-TERMINAL;INITIALIZING+SECURE+SHELL+SESSION...;AUTHENTICATION+SUCCESSFUL+✔;RED+TEAM+%7C+BLUE+TEAM+%7C+SOC+MONITORING;THREAT+HUNTER+ONLINE;SYSTEM+STATUS:+FULLY+OPERATIONAL+🟢;_█" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00FF9C&center=true&vCenter=true&width=900&lines=INITIALIZING+CYBER+PROFILE...;ACCESS+GRANTED+✔;WELCOME+V+SARANKUMAR+S+VARATHAGANESH;CYBERSECURITY+ANALYST+%7C+RED+TEAMER+%7C+FULL+STACK+DEV;SOC+ANALYST+%7C+ETHICAL+HACKER+%7C+DEVSECOPS" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
   <a href="mailto:saran2209kumar@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/">
+  <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -45,93 +45,116 @@ Aspiring Cybersecurity professional with hands-on experience in:
 - AI-based Security Solutions  
 - Secure System Development  
 
+Skilled in threat detection, log analysis, Python, web development, and modern frameworks.  
 Passionate about solving cybersecurity challenges and participating in national-level hackathons.
 
 ---
 
 ## 💼 WORK EXPERIENCE
 
-### 🛡️ Cyber Security Analyst Intern – Imperative Business Ventures Ltd
-- Red Team environment using Qubes OS + sys-whonix  
+### 🛡️ Imperative Business Ventures Ltd
+**Cyber Security Analyst Intern | June 2025 – November 2025**
+- Designed anonymous Red Team environment using Qubes OS + sys-whonix  
 - Active Directory attack & defense simulations  
-- SIEM tools: ELK, Wazuh, Zabbix, AlienVault  
-- Penetration testing & vulnerability assessment  
+- Implemented SIEM tools: ELK, Wazuh, Zabbix, AlienVault  
+- Conducted penetration testing & vulnerability assessments  
 
 ---
 
-### 💻 Software Developer Intern – Twinkle IT Solution Pvt Ltd
-- ASP.NET, C#, SQL Server development  
-- Responsive UI using HTML, CSS, JS  
-- CRUD operations, debugging, deployment  
+### 💻 Twinkle IT Solution Pvt Ltd
+**Software Developer Intern | June 2025 – August 2025**
+- Developed web apps using ASP.NET, C#, SQL Server  
+- Built responsive UI with HTML, CSS, JavaScript  
+- CRUD operations, stored procedures, debugging, deployment  
 
 ---
 
-### 🌐 Full Stack Developer Intern – Astraeus Next Gen Pvt Ltd
-- Odin Web Crawler for threat intelligence  
-- Backend API development  
-- Security data pipeline design  
+### 🌐 Astraeus Next Gen Pvt Ltd
+**Full Stack Development Intern | March 2025 – May 2025**
+- Developed Odin Web Crawler for dark web analytics  
+- Built threat intelligence pipelines  
+- Debugged backend APIs for Project Aegis  
 
 ---
 
-### 🔐 Security Analyst Intern – Amazure Technologies Pvt Ltd
-- 1000+ security events monitored daily (ELK Stack)  
-- Threat intelligence dashboard  
+### 🔐 Amazure Technologies Pvt Ltd
+**Security Analyst Intern**
+- Monitored 1000+ security events daily using ELK Stack  
+- Built real-time threat intelligence dashboards  
 - Incident response & system hardening  
 
 ---
 
-### 💻 Software Developer Intern – Nexgensis Technologies Pvt Ltd
-- React.js dashboards  
-- Django + MongoDB APIs  
-- Agile development workflows  
+### 💻 Nexgensis Technologies Pvt Ltd
+**Software Developer Intern | Jun 2024 – Aug 2024 | Jun 2023 – Aug 2023**
+- Built React.js dashboards for visualization  
+- Developed Django + MongoDB APIs  
+- Worked in Agile development cycles  
 
 ---
 
 ## 🎓 EDUCATION
 
-**B.Tech CSIT (Cyber Security)**  
-Symbiosis Skills and Professional University  
-CGPA: 8.7 | 2022 – 2026  
+**Symbiosis Skills and Professional University**  
+B.Tech CSIT (Cyber Security)  
+CGPA: 8.7  
+Aug 2022 – Aug 2026  
 
 ---
 
 ## 🚀 PROJECTS
 
-### 🤖 AI Security Scanner
+### 🤖 AI-Powered Security Scanner
 Streamlit · Python · Pyshark · Psutil · Plotly  
-Real-time monitoring, IDS/IPS, ransomware detection, anomaly detection  
+- Real-time system monitoring  
+- Network analysis  
+- IDS/IPS, ransomware detection, port scanning  
 
 ---
 
-### 🕶️ Anonymous Red Team Lab
-Qubes OS · Whonix · ELK · Wazuh  
-Isolated offensive + defensive cyber environment  
+### 🕶️ Anonymous Red Team Environment
+Qubes OS · Whonix · ELK Stack · Wazuh · Zabbix · AlienVault  
+- Fully isolated offensive security lab  
+- Anonymous penetration testing environment  
+- Blue + Red Team simulation setup  
 
 ---
 
-### 🧬 AI Disease Prediction System
+### 🧬 Chronic Disease Management (AI/ML)
 Python · TensorFlow · Scikit-learn · Django  
-Machine learning-based healthcare prediction system  
+- AI-driven disease prediction system  
+- Patient risk analysis using ML models  
 
 ---
 
 ## 🧠 SKILLS
 
-**Linux:** SSH, SCP, Scheduling, File Systems  
-**SIEM:** Wazuh, ELK, Zabbix, AlienVault  
-**Programming:** Python, Java, JavaScript, SQL  
-**Active Directory:** GPO, OU, LDAP, ADDS  
-**AWS:** EC2, IAM, RDS, EBS, Load Balancer  
-**Docker:** Containers, Networking, Deployment  
+### 🐧 Linux
+Hard link, Soft link, SSH, SCP, PuTTY, WinSCP, Scheduling  
+
+### 🛡️ SIEM / SOC
+Wazuh, Zabbix, ELK Stack, AlienVault  
+
+### 💻 Programming
+Python, SQL, Java, JavaScript  
+
+### 🪪 Active Directory
+Users & Groups, OU, GPO, LDAP, ADDS  
+
+### ☁️ AWS
+IAM, EC2, EBS, EFS, Load Balancer, RDS  
+
+### 🐳 Docker
+Port binding, Networking, Image building, Container deployment  
 
 ---
 
 ## 🏆 ACHIEVEMENTS
 
-- 🥇 MIT Kurukshetra 25 Hackfest – Winner  
-- 🥈 Smart India Hackathon 2025 – Runner-Up  
+- 🥇 MIT Kurukshetra 25 Hackfest – Winner (Cybersecurity & Blockchain)  
 - 🥈 CSI & Imperative CTF – Runner  
 - 🥈 Ambuja Tech CTF – Runner  
+- 🥈 Smart India Hackathon 2025 – Runner  
 
 ---
 
