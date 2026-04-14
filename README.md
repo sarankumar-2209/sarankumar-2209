@@ -7,126 +7,14 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/Saran-Kumar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/sarankumar-2209">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="mailto:saran2209kumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 🛡️ About Me
 
-- 🎓 Final-year B.Tech CSE (Cybersecurity) @ Symbiosis Skills and Professional University, Pune (**CGPA: 8.7**)
-- 📍 Based in Pune, India  
-- 🔴 Experience in **Red Teaming, SOC, VAPT, Incident Response**
-- 🤖 Passionate about AI + Cybersecurity automation
-- 🛠️ Building real-world security tools & dashboards
-- 📫 Email: **saran2209kumar@gmail.com**
-
----
-
-## 💼 Work Experience
-
-### 🛡️ Cybersecurity Analyst Intern – Imperative Business Ventures Ltd  
-- Red Team simulations using Qubes OS + sys-whonix  
-- Active Directory attack & defense labs  
-- ELK Stack, Wazuh, Zabbix, AlienVault monitoring  
-- Penetration testing & vulnerability assessments  
-
----
-
-### 💻 Software Developer Intern – Twinkle IT Solution Pvt Ltd  
-- ASP.NET, C#, SQL Server development  
-- Frontend: HTML, CSS, JavaScript  
-- Database optimization & CRUD systems  
-
----
-
-### 🔐 Full Stack Developer Intern – Astraeus Next Gen Pvt. Ltd  
-- Built threat intelligence crawler (Odin Web Crawler)  
-- Backend API development for security systems  
-- Data pipeline handling  
-
----
-
-### 🧠 Security Analyst Intern – Amazure Technologies Pvt Ltd  
-- Monitored 1000+ security events daily  
-- Built SIEM dashboards using ELK Stack  
-- Incident response & system hardening  
-
----
-
-### 🌐 Software Developer Intern – Nexgensis Technologies Pvt Ltd  
-- React.js dashboards  
-- Django + MongoDB backend APIs  
-- Agile development workflow  
-
----
-
-## 🎓 Education
-
-**Symbiosis Skills and Professional University, Pune**  
-B.Tech CSE (Cybersecurity)  
-📊 CGPA: 8.7 | 2022 – 2026  
-
----
-
-## 🔧 Tech Stack
-
-**Cybersecurity Tools**
-- Wazuh, ELK Stack, Zabbix, AlienVault  
-- Kali Linux, Burp Suite, Nmap, Nessus  
-
-**Programming**
-- Python, Java, JavaScript, SQL  
-
-**Frameworks**
-- Django, ASP.NET, React.js  
-
-**Cloud & DevOps**
-- AWS (EC2, IAM, RDS, Load Balancer)  
-- Docker (Networking, Containers)  
-
-**Systems**
-- Active Directory (GPO, LDAP, OU, AD DS)  
-- Linux (SSH, SCP, Permissions)  
-
----
-
-## 🚀 Projects
-
-### 🛡️ AI Security Scanner
-- Real-time system monitoring dashboard  
-- Anomaly detection using psutil + PyShark  
-- IDS/IPS + ransomware detection  
-
-### 🕵️ Red Team Environment
-- Qubes OS + sys-whonix isolation  
-- Secure penetration testing lab  
-- Blue team monitoring integration  
-
-### 🏥 Disease Prediction System
-- ML-based healthcare prediction  
-- Risk analysis using datasets  
-
----
-
-## 🏆 Achievements
-
-- 🥇 Hackfest Winner – Cybersecurity & Blockchain  
-- 🥈 Smart India Hackathon Runner-up  
-- 🥈 CSI CTF Runner-up  
-- 🥉 Ambuja Tech CTF Runner-up  
-- 🏅 AI/ML Hackathon Finalist  
+- 🎓 B.Tech CSE (Cybersecurity) @ Symbiosis Skills and Professional University  
+- 🔴 Red Teaming | SOC | VAPT | Incident Response  
+- 🤖 AI + Cybersecurity Automation Enthusiast  
+- 🛠️ Building real-world security tools & SIEM dashboards  
 
 ---
 
@@ -146,7 +34,7 @@ B.Tech CSE (Cybersecurity)
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarankumar-2209&theme=tokyo-night&hide_border=true"/>
@@ -154,6 +42,57 @@ B.Tech CSE (Cybersecurity)
 
 ---
 
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://github.com/sarankumar-2209/sarankumar-2209/blob/output/github-snake.svg" />
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+**Cybersecurity**
+- Wazuh | ELK Stack | Zabbix | AlienVault  
+- Kali Linux | Burp Suite | Nmap | Nessus  
+
+**Programming**
+- Python | Java | JavaScript | SQL  
+
+**Frameworks**
+- Django | ASP.NET | React.js  
+
+**Cloud & DevOps**
+- AWS | Docker  
+
+---
+
+## 🚀 Highlights
+
+- 🛡️ Red Team Lab (Qubes OS + sys-whonix)  
+- 🔍 SIEM Dashboard (ELK + Wazuh)  
+- 🏥 AI Disease Prediction System  
+- 🕵️ Threat Intelligence Crawler  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Hackfest Winner – Cybersecurity & Blockchain  
+- 🥈 Smart India Hackathon Runner-up  
+- 🥈 CSI CTF Runner-up  
+- 🏅 AI/ML Hackathon Finalist  
+
+---
+
 ## 🔐 Quote
 
-> "Cybersecurity is not a product, but a process."
+> "Cybersecurity is not a product, it's a continuous process."
+
+---
+
+## ⚡ Profile Views (Optional)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sarankumar-2209&label=Profile%20Views&color=00c9a7&style=flat" />
+</p>
