@@ -1,9 +1,3 @@
-<!-- ================= ELITE HACKER MODE ================= -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=INITIALIZING+SECURE+CONNECTION...;FIREWALL+STATUS%3A+BYPASSED;RED+TEAM+MODE%3A+ACTIVE;SOC+MONITORING%3A+ONLINE;WELCOME+%E2%80%94+V+SARANKUMAR+S+VARATHAGANESH" alt="Typing SVG" />
-
-<br/>
 
 ![Matrix](https://i.gifer.com/7VE.gif)
 
