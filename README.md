@@ -5,7 +5,6 @@
 
 <br/>
 
-![Matrix](https://i.gifer.com/7VE.gif)
 
 </div>
 
