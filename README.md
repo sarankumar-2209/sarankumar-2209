@@ -1,89 +1,88 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:240b36,100:c31432&height=250&section=header&text=V.%20Sarankumar%20&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=250&section=header&text=ROOT@SARANKUMAR:~$%20&fontSize=40&fontColor=00FF41&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=🛡️+Cyber+Security+Analyst;⚔️+Red+Team+Enthusiast;🕵️+Threat+Hunter;🚀+AI+Security+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=>>+SYSTEM+STATUS:+SECURE;>>+RED+TEAM+ENTHUSIAST;>>+SOC+ENGINEER+IN+PROGRESS;>>+THREAT+HUNTING+ENABLED" alt="Cyber Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saran2209kumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF41?style=for-the-badge&logo=statuspage&logoColor=00FF41&labelColor=black" />
+<img src="https://img.shields.io/badge/OS-LINUX_KALI-5194f0?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=black" />
+<img src="https://img.shields.io/badge/NETWORK-ENCRYPTED-red?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=black" />
 </p>
 
 ---
 
-# 🧠 Terminal Profile: /home/sarankumar/about_me
+# 🕵️‍♂️ INITIALIZING BIOMETRIC SCAN... ACCESS GRANTED.
 
-> **"Think like a hacker, defend like a warrior."** - 🎓 **Education:** Pursuing B.Tech CSIT (Specializing in Cyber Security)
-- 🔭 **Current Focus:** Hardening Active Directory & AI-Driven Threat Intelligence
-- 🛡️ **Active Labs:** SOC Analyst workflows, SIEM Integration, and Malware Sandbox
-- 🧩 **Passion:** Tackling complex CTFs and building resilient, self-healing security systems
+### **$ whoami**
+> **V. Sarankumar S. Varathaganesh** > **Security Researcher | B.Tech CSIT** > Focused on breaking systems to make them un-breakable. Specializing in **Agentic AI Security** and **Multi-Agent Orchestration** for defensive workflows.
 
----
-
-# 🛠️ Arsenal (Tech Stack)
-
-### 💻 Languages & Scripting
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
-### 🛡️ Cyber Security & Monitoring
-<p>
-  <img src="https://img.shields.io/badge/Wazuh-00a9e0?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
-</p>
-
-### ☁️ Infrastructure & Systems
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
+- 🚩 **CTF Player:** Active in `shaktiCTF` & `HackTheBox`
+- 🎯 **Target:** Offensive Security Certified Professional (OSCP)
+- 📡 **Current Lab:** Building automated threat response pipelines using AI
 
 ---
 
-# 🚀 Mission Briefs (Featured Projects)
+# ⚔️ TECH ARSENAL (BY DOMAIN)
 
-| Project | Description | Tech Stack |
+### 💀 Offensive (Red Team)
+`Active Directory Attacks` `Metasploit` `Nmap` `Burp Suite` `OWASP Top 10`
+
+### 🛡️ Defensive (Blue Team)
+`Wazuh (SIEM)` `ELK Stack` `Zabbix` `AlienVault` `Firewall Hardening`
+
+### 🤖 AI & Automation
+`Python` `Agentic AI` `LangChain` `Multi-Agent Systems` `PostgreSQL`
+
+---
+
+# 📂 ENCRYPTED_PROJECTS.exe
+
+| SEC_LEVEL | PROJECT_NAME | INTEL |
 | :--- | :--- | :--- |
-| **🕶️ Anon Red Team Lab** | Isolated hacking environment using Qubes OS. | `sys-whonix` `Qubes` `SIEM` |
-| **🛡️ AI Security Scanner** | Real-time threat detection with a live dashboard. | `Python` `AI/ML` `Network Ops` |
-| **🧬 AI Chronic Health** | ML-based early disease prediction system. | `Data Analysis` `Scikit-Learn` |
+| 🔴 **HIGH** | **Anonymous Red Team Env** | Virtualized hacking lab via **Qubes OS** + **Whonix** for total OPSEC. |
+| 🟡 **MED** | **AI Security Scanner** | Real-time heuristic monitoring for network anomalies. |
+| 🔵 **LOW** | **Agentic Loan System** | Secure multi-agent AI architecture built for **EY Techathon 6.0**. |
 
 ---
 
-# 📊 Strategic Overview
+# 📊 THREAT INTELLIGENCE DASHBOARD
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sarankumar-2209&show_icons=true&theme=radical&rank_icon=github" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarankumar-2209&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sarankumar-2209&show_icons=true&theme=matrix&rank_icon=github&border_color=00FF41" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarankumar-2209&layout=compact&theme=matrix&border_color=00FF41" />
 </p>
 
-### ⚡ Activity Timeline
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=sarankumar-2209&theme=react-dark&bg_color=0D1117&hide_border=true)
+### 📡 COMMIT FREQUENCY (NETWORK TRAFFIC)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sarankumar-2209&theme=matrix&bg_color=000000&hide_border=false&area=true)
 
 ---
 
-# 🏆 Achievements
+# 🏆 LOOT (BADGES & TROPHIES)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarankumar-2209&theme=radical&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sarankumar-2209&theme=matrix&no-bg=true&column=4" />
 </p>
 
 ---
 
-# 🐍 Network Growth
+# 🐍 SYSTEM CONTRIBUTION CRACKER
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
+
+# 📞 SECURE COMMUNICATION CHANNELS
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sarankumar-2209&color=red&style=flat-square&label=PROFILE+VIEWS" />
+  <a href="mailto:saran2209kumar@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://tryhackme.com/p/YOUR_USER"><img src="https://img.shields.io/badge/TRYHACKME-212c42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <code>ESTABLISHED CONNECTION: 127.0.0.1</code><br>
+  <img src="https://komarev.com/ghpvc/?username=sarankumar-2209&color=00FF41&style=flat-square&label=INTRUSION_ATTEMPTS" />
 </p>
