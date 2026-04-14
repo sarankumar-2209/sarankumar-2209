@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+V+Sarankumar+S+Varathaganesh+%F0%9F%91%8B;Cybersecurity+Engineer+%7C+Red+Teamer+%7C+SOC+Analyst;Penetration+Tester+%7C+AI+Security+Enthusiast)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Saran-Kumar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Saran-Kumar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarankumar-2209)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saran2209kumar@gmail.com)
 
@@ -30,7 +30,7 @@
 
 ### 💻 Software Developer Intern – Twinkle IT Solution Pvt Ltd  
 **June 2025 – August 2025**
-- Built web apps using ASP.NET, C#, SQL Server  
+- Built web applications using ASP.NET, C#, SQL Server  
 - Developed responsive UI using HTML, CSS, JavaScript  
 - Optimized database queries and CRUD operations  
 - Worked on debugging, testing, and deployment  
@@ -41,14 +41,14 @@
 **March 2025 – May 2025**
 - Developed Odin Web Crawler for dark web threat intelligence  
 - Built scalable backend APIs for Project Aegis  
-- Handled data pipelines and debugging backend systems  
+- Handled data pipelines and backend debugging  
 
 ---
 
 ### 🧠 Security Analyst Intern – Amazure Technologies Pvt Ltd  
 **June 2024 – August 2024**
 - Monitored 1000+ security events daily using ELK Stack  
-- Built real-time threat intelligence dashboard  
+- Built real-time threat intelligence dashboards  
 - Performed incident response & system hardening  
 
 ---
@@ -83,11 +83,11 @@ B.Tech CSE (Cyber Security)
 - Django, ASP.NET, React.js  
 
 **Cloud & DevOps**
-- AWS (EC2, IAM, RDS, EBS, EFS, LB)  
+- AWS (EC2, IAM, RDS, EBS, EFS, Load Balancer)  
 - Docker (Networking, Containerization, Deployment)  
 
 **Networking & Systems**
-- Active Directory (GPO, OU, LDAP, ADDS)  
+- Active Directory (GPO, OU, LDAP, AD DS)  
 - Linux (SSH, SCP, Scheduling, Permissions)  
 
 ---
@@ -96,7 +96,7 @@ B.Tech CSE (Cyber Security)
 
 ### 🛡️ AI-Powered Real-Time Security Scanner
 - Streamlit-based security dashboard for system & network monitoring  
-- Real-time anomaly detection using psutil, Pyshark, Plotly  
+- Real-time anomaly detection using psutil, PyShark, Plotly  
 - Includes IDS/IPS, port scanning, ransomware detection  
 
 ---
@@ -143,5 +143,3 @@ B.Tech CSE (Cyber Security)
 ## 🔐 Quote
 
 > "Security is not a product, but a process."
-
----
