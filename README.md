@@ -1,8 +1,11 @@
-
-<!-- ================= ELITE CYBER SECURITY PROFILE ================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=700&color=00FF00&center=true&vCenter=true&width=1000&lines=V+SARANKUMAR+S+VARATHAGANESH@SECURE-TERMINAL;----------------------------------------;INITIALIZING+SECURE+SHELL+SESSION+...;AUTHENTICATION+SUCCESSFUL+✔;LOADING+CYBER+INTELLIGENCE+MODULES+...;RED+TEAM+ENGAGED+|+BLUE+TEAM+MONITORING;SOC+ANALYST+ACTIVE+|+THREAT+HUNTER+ONLINE;SYSTEM+STATUS:+FULLY+OPERATIONAL+🟢;_+█" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00FF9C&center=true&vCenter=true&width=900&lines=INITIALIZING+CYBER+PROFILE...;ACCESS+GRANTED+✔;WELCOME+V+SARANKUMAR+S+VARATHAGANESH;CYBERSECURITY+ANALYST+%7C+RED+TEAMER+%7C+FULL+STACK+DEV;SOC+ANALYST+%7C+ETHICAL+HACKER+%7C+DEVSECOPS" />
+  <img src="https://img.shields.io/badge/TERMINAL-ROOT_ACCESS-00ff00?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SECURITY-ARMED-ff0000?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00c9a7?style=for-the-badge"/>
 </p>
 
 <p align="center">
